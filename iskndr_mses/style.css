@@ -1,0 +1,49 @@
+body{
+    background-color: darkorange;
+}
+
+h1{
+    color: rgb(4, 157, 157);
+}
+
+p{
+    color: rgba(3, 109, 195, 0.674);
+    font-size: 20px;
+}
+
+ol{
+    color: rgb(3, 146, 5);
+}
+
+ul{
+    color: rgb(17, 200, 81);
+}
+
+table{
+    color: aliceblue;
+    background-color: brown;   
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(243, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
